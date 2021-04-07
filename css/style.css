@@ -1,0 +1,9 @@
+.btn {
+    width: 100px;
+    margin: 15px;
+    height: 30px;
+    border: 2px blueviolet solid;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
